@@ -1,5 +1,5 @@
 const prompt=require('prompt-sync')();
-let num=parseInt(prompt("please enter the number of term"));
+let num=parseInt(prompt("please enter the number of term:-"));
 let sum=0;
 let sum1=0;
 console.log("Series are"+" ");

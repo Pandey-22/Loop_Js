@@ -1,6 +1,6 @@
 // in while loop
 // const prompt=require('prompt-sync')();
-// let number=parseInt(prompt("please enter the number of rows"));
+// let number=parseInt(prompt("please enter the number of rows:-"));
 // let i=1;
 // while (i<=number){
 //     let j=1;
@@ -27,7 +27,7 @@
 
 // in while loop
 // const prompt=require('prompt-sync')();
-// let number=parseInt(prompt("please enter the number of rows"));
+// let number=parseInt(prompt("please enter the number of rows:-"));
 // let i=1;
 // while (i<=number){
 //     let j=1;
@@ -63,7 +63,7 @@
 
 // in while loop
 // const prompt=require('prompt-sync')();
-// let number=parseInt(prompt("please enter the number of rows"));
+// let number=parseInt(prompt("please enter the number of rows:-"));
 // let i=0;
 // while (i<=number){
 //     let j=1;
@@ -92,7 +92,7 @@
 
 // in while loop
 // const prompt=require('prompt-sync')();
-// let number=parseInt(prompt("please enter the number of rows"));
+// let number=parseInt(prompt("please enter the number of rows:-"));
 // let i=0;
 // while (i<=number){
 //     let j=0;
@@ -127,10 +127,10 @@
 
 // in while loop
 // const prompt = require('prompt-sync')();
-// let number = parseInt(prompt("Please enter the number of rows: "));
+// let number = parseInt(prompt("Please enter the number of rows:-"));
 // let i=0;
 // while (i<number){
-//     let j=0;
+//     let j=0
 //     while (j<i){
 //         process.stdout.write(" ");
 //         j+=1;
@@ -163,7 +163,7 @@
 
 // in while loop  
 // const prompt=require('prompt-sync')();
-// let number=parseInt(prompt("please enter the number of rows"));
+// let number=parseInt(prompt("please enter the number of rows:-"));
 // let i=0;
 // while (i<number-1){
 //     j=i;

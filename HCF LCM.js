@@ -9,4 +9,4 @@ while (num2>0) {
 }
 let hcf=num1;
 let lcm=Math.floor(p/hcf);
-console.log("HCF =", hcf,"LCM =", lcm);
+console.log("HCF =",hcf,"LCM =",lcm);

@@ -31,21 +31,6 @@
 
 
 
-// const prompt=require('prompt-sync')();
-// let number=parseInt(prompt("please enter the number"));
-// let i=1;
-// let sum=0;
-// while (i<=number){
-//     let add=parseInt(prompt("please enter the next number you want to add"));
-//     sum+=add;
-//     i+=1;
-// }
-// console.log("Total sum of number =",sum);
-
-
-
-
-
 // let i=0;
 // while (i<=9){
 //     i+=1;

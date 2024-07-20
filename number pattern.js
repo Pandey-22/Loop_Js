@@ -33,7 +33,7 @@
 
 
 // const prompt=require('prompt-sync')();
-// let number=parseInt(prompt("please enter the number of rows"));
+// let number=parseInt(prompt("please enter the number of rows:-"));
 // for (let i=0; i<number; i++){
 //     for (let j=0; j<i+1; j++){
 //         process.stdout.write("1"+" ");
@@ -45,8 +45,8 @@
 
 
 // const prompt=require('prompt-sync')();
-// let number=parseInt(prompt("please enter the number of rows"));
-// let p=parseInt(prompt("please enter any number"));
+// let number=parseInt(prompt("please enter the number of rows:-"));
+// let p=parseInt(prompt("please enter any number:-"));
 // for (let i=0; i<number; i++){
 //     for (let j=0; j<=i; j++){
 //         process.stdout.write(p+" ");
@@ -58,7 +58,7 @@
 
 
 // const prompt=require('prompt-sync')();
-// let number=parseInt(prompt("please enter the number of rows"));
+// let number=parseInt(prompt("please enter the number of rows:-"));
 // for (let i=1; i<=number; i++){
 //     for (let j=0; j<i; j++){
 //         if (i%2==0){
@@ -74,7 +74,7 @@
 
 
 // const prompt=require('prompt-sync')();
-// let number=parseInt(prompt("please enter the number"));
+// let number=parseInt(prompt("please enter the number:-"));
 // let i=0;
 // while (i<=number){
 //     let j=0;
@@ -93,8 +93,9 @@
 
 
 
+
 // const prompt=require('prompt-sync')();
-// let number=parseInt(prompt("please enter the number of rows"));
+// let number=parseInt(prompt("please enter the number of rows:-"));
 // for (let i=0; i<number; i++){
 //     let p=5;
 //     for (let j=0; j<i+1; j++){
@@ -107,7 +108,7 @@
 
 
 // const prompt=require('prompt-sync')();
-// let number=parseInt(prompt("please enter the number of rows"));
+// let number=parseInt(prompt("please enter the number of rows:-"));
 // let p=1;
 // for (let i=0; i<number; i++){
 //     for (let j=0; j<number; j++){
@@ -120,7 +121,7 @@
 
 
 // const prompt=require('prompt-sync')();
-// let number=parseInt(prompt("please enter the number of rows"));
+// let number=parseInt(prompt("please enter the number of rows:-"));
 // let i=1;
 // while (i<=number){
 //     let j=1;
@@ -135,20 +136,20 @@
 
 
 
-// const prompt=require('prompt-sync')();
-// let number=parseInt(prompt("please enter the number of rows"));
-// let i=1;
-// while (i<=number){
-//     let j=1;
-//     let p=50;
-//     while (j<=i){
-//         process.stdout.write(p-40+" ");
-//         j+=1;
-//         p+=10;
-//     }
-//     console.log();
-//     i+=1;
-// }
+const prompt=require('prompt-sync')();
+let number=parseInt(prompt("please enter the number of rows:-"));
+let i=1;
+while (i<=number){
+    let j=1;
+    let p=50;
+    while (j<=i){
+        process.stdout.write(p-40+" ");
+        j+=1;
+        p+=10;
+    }
+    console.log();
+    i+=1;
+}
 
 
 

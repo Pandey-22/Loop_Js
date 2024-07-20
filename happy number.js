@@ -6,7 +6,7 @@
 
 
 const prompt=require('prompt-sync')();
-let num=parseInt(prompt("please enter the number"));
+let num=parseInt(prompt("please enter the number:-"));
 x=num;
 while (x>10){
     sum=0;

@@ -1,19 +1,20 @@
 // const prompt=require('prompt-sync')();
-// let character=prompt("Please enter any character: ");
+// let character=prompt("Please enter any character:-");
 // let asciiValue=character.charCodeAt();
 // console.log("The ASCII value of '" + character + "' is: " + asciiValue);
 
 
 
+
 // const prompt = require('prompt-sync')();
-// let number = parseInt(prompt("Please enter any number: "));
+// let number = parseInt(prompt("please enter any number:-"));
 // let character = String.fromCharCode(number);
 // console.log("The corresponding character of ASCII value " + number + " is: " + character);
 
 
 
 // const prompt=require('prompt-sync')();
-// let number=parseInt(prompt("Please enter any number"));
+// let number=parseInt(prompt("Please enter any number:-"));
 // let i=1;
 // while (i<=number){
 //     let j=1;
@@ -28,7 +29,7 @@
 
 
 // const prompt=require('prompt-sync')();
-// let number=parseInt(prompt("please enter the number"));
+// let number=parseInt(prompt("please enter the number:-"));
 // let i=1;
 // while (i<=number){
 //     let j=1;
@@ -44,7 +45,7 @@
 
 
 // const prompt=require('prompt-sync')();
-// let number=parseInt(prompt("please enter the number"));
+// let number=parseInt(prompt("please enter the number:-"));
 // let i=1;
 // let p=1;
 // while (i<=number){

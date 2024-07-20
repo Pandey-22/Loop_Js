@@ -107,12 +107,12 @@
 // while (i<=10){
 //     let j=0;
 //     while (j<=6){
-        // if (j==0 || i==0 || i==5 || i==10){
-        //     process.stdout.write("*"+" ");
-        // }
-        // else{
-        //     process.stdout.write(" "+" ");
-        // }
+//         if (j==0 || i==0 || i==5 || i==10){
+//             process.stdout.write("*"+" ");
+//         }
+//         else{
+//             process.stdout.write(" "+" ");
+//         }
 //         j+=1;
 //     }
 //     console.log();
@@ -202,18 +202,6 @@
 //     }
 //     console.log();
 // }
-
-
-
-
-
-// in for loop
-
-
-
-
-
-
 
 
 
